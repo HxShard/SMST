@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftkfd",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Lrdsnow/SwiftKFD.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "7d6345a4c21559645c151a56cb3614a17334219b"
+      }
+    }
+  ],
+  "version" : 2
+}
